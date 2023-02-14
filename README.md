@@ -19,7 +19,9 @@ Make the following in MYSQL:
 Note: UserName is the Primary Key in bank Table and UserName1 is the Foreign key in transaction Table.    
 
 bank table
+
 ![image](https://user-images.githubusercontent.com/90050088/218821639-e48c2860-05d9-4712-851f-208255d7cf9d.png)
 
 transaction table
+
 ![image](https://user-images.githubusercontent.com/90050088/218821772-fd81acde-3449-4a23-aea0-a2adbae49526.png)
