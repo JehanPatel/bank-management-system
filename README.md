@@ -25,3 +25,11 @@ Note: UserName is the Primary Key in bank Table and UserName1 is the Foreign key
 ## transaction table
 
 ![image](https://user-images.githubusercontent.com/90050088/218821772-fd81acde-3449-4a23-aea0-a2adbae49526.png)
+
+## How to run
+
+1. Download the folder.
+2. Open cmd and run all installation's using `pip` command.
+3. Update username and password to your MYSQL server in bank.py
+4. Open cmd from the bank.py file location.
+5. Type `python bank.py` to run the file
