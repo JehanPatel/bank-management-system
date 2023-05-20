@@ -67,4 +67,5 @@ Contributions are what make the open source community such an amazing place to b
 * **Jehan Patel** - *CSE Core student* - [Jehan Patel](https://github.com/JehanPatel) 
 * **Neel Jain** - *CSE Core student* - [Neel Jain](https://github.com/Neel-2002) 
 * **Abhinav** - *CSE Core student* - [Abhinav](https://github.com/Abhinav4291) 
+* **Juss Patel** - *Student* - [Juss Patel](https://github.com/jusspatel) 
 
